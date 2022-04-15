@@ -1,4 +1,4 @@
-@startuml Request-Response
+@startuml Host Side Interaction
 
 ' Entity declaration
 participant MainWindow as Win
