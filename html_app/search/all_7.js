@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['handlerequest_0',['handleRequest',['../classsolutionanalysis_1_1camera__app_1_1_main_activity.html#aa900f5385fdc31e29ba86de04899f440',1,'solutionanalysis.camera_app.MainActivity.handleRequest()'],['../classsolutionanalysis_1_1display__app_1_1_main_activity.html#a31caad4b950a0b1cdb8fe1b1e5ca3ba9',1,'solutionanalysis.display_app.MainActivity.handleRequest()'],['../interfacesolutionanalysis_1_1util_1_1networking_1_1_i_interaction_handler.html#a6b61700225389ac5ebcb9cb8a2d80f5a',1,'solutionanalysis.util.networking.IInteractionHandler.handleRequest()']]],
+  ['handleresponse_1',['handleResponse',['../classsolutionanalysis_1_1camera__app_1_1_main_activity.html#a9012e574808068f8a3f5923002b29b31',1,'solutionanalysis.camera_app.MainActivity.handleResponse()'],['../classsolutionanalysis_1_1display__app_1_1_main_activity.html#a51a5d70728aa0e1b0d46e9aa9f9ce160',1,'solutionanalysis.display_app.MainActivity.handleResponse()'],['../interfacesolutionanalysis_1_1util_1_1networking_1_1_i_interaction_handler.html#aa950f824cad4773758addad4a0e16f1f',1,'solutionanalysis.util.networking.IInteractionHandler.handleResponse()']]]
+];
